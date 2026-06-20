@@ -1,0 +1,6 @@
+{
+  "name": "Openvine Connect",
+  "description": "Una aplicación simple y elegante para conectar con Openvine e integrarse con la plataforma Open.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

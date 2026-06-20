@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Openvine Connect</string>
+    <string name="connection_status">Estado de Conexión</string>
+    <string name="connect_btn">Conectar a Openvine</string>
+    <string name="disconnect_btn">Desconectar</string>
+    <string name="connecting_status">Estableciendo enlace con Openvine...</string>
+    <string name="connected_status">¡Enlace con Openvine Activo!</string>
+    <string name="disconnected_status">Puente Desconectado</string>
+    <string name="info_section_title">¿De qué se trata esta aplicación?</string>
+    <string name="info_section_desc">Esta aplicación está diseñada exclusivamente con el propósito de servir como puente de conexión de tu infraestructura local hacia la aplicación principal llamada \"Open\". De esta manera, facilitas un canal de datos seguro, automatizado y en tiempo real sin configuraciones complejas.</string>
+    <string name="view_logs">Ver Registro de Eventos</string>
+    <string name="settings_title">Ajustes de Integración</string>
+    <string name="mock_ip_label">Dirección del Nodo Openvine</string>
+    <string name="mock_status_connected_desc">Conexión establecida con la app principal \"Open\"</string>
+</resources>
